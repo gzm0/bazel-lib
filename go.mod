@@ -4,5 +4,5 @@ go 1.19
 
 require (
 	github.com/bmatcuk/doublestar/v4 v4.6.1
-	golang.org/x/exp v0.0.0-20230905200255-921286631fa9
+	golang.org/x/exp v0.0.0-20231127185646-65229373498e
 )
